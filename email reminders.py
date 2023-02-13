@@ -1,0 +1,3 @@
+# Email Reminders
+x,y=map(int,input().split())
+print(x-y)
