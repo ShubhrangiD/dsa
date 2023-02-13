@@ -1,0 +1,7 @@
+# Car Trip
+for i in range(int(input())):
+    x=int(input())
+    if(x<=300):
+        print(300*10)
+    else:
+        print(x*10)
